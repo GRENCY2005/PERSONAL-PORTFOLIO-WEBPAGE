@@ -7,52 +7,38 @@ Domain        : Frontend Web Development
 Duration      : 4 weeks                            
 Mentor        : Neela Santosh         
 
-DESCRIPTION
-Task Description:
+## DESCRIPTION
 
-Build a web-based quiz application using HTML, CSS, and JavaScript that allows users to answer multiple-choice questions and receive instant feedback on their answers. The app should be interactive, responsive, and provide a dynamic user experience.
+### Task Description:
 
-Core Features to Implement:
+Design and build a personal portfolio webpage using HTML and CSS. The goal is to create a clean, responsive, and visually appealing single-page website that presents a developer’s personal details, skills, and projects. This webpage should help showcase your work professionally for job applications or freelance opportunities.
 
-Question Display:
+### Core Features to Implement:
 
-Dynamically load one question at a time from a set of pre-defined questions.
-Display the question text and 4 answer options.
-Answer Selection & Feedback:
+#### Header & Navigation:
+- Create a fixed navigation bar.
+- Include links to different sections: Home, About, Projects, Contact.
 
-Users select one answer.
-Instantly show whether the selected answer is correct or incorrect.
-Highlight the correct answer.
-Scoring System:
+#### About Section:
+- Add a short introduction about yourself.
+- Include basic information like name and technical skills.
 
-Keep track of the user's score as they progress through the quiz.
-Update the score immediately after each answer.
-Navigation:
+#### Projects Section:
+- Display at least 2–3 projects you’ve worked on.
+- Include project titles, short descriptions, and optional links to live demos or GitHub repos.
 
-"Next" button to go to the next question.
-Final Score Display:
+#### Contact Section:
+- Add your contact details.
+  
+### Technologies to Use:
+- HTML for webpage structure.
+- CSS for styling and responsive layout.
 
-At the end of the quiz, show the total score with a summary of correct answers.
-Option to restart the quiz.
-Dynamic Question Loading:
+### Deliverable:
+- Highlights personal and professional information.
+- Provides a smooth user experience with simple navigation.
 
-Questions should be loaded dynamically from an array or external JSON file (simulating API behavior).
-Technologies to Use:
-
-HTML for structure
-CSS for styling and layout
-JavaScript for logic and interactivity
-Deliverable:
-
-A fully functional and visually polished quiz web app that:
-
-Loads questions dynamically
-Allows user interaction
-Provides real-time feedback
-Displays and updates score
-OUTPUT
-
-
+### OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/e20fef45-e9cc-4e1d-b241-cbc2eed5150b)
 
